@@ -1,6 +1,6 @@
 <script>
 	import { DEV } from 'esm-env';
-	import TailwindSize from '../TailwindSize.svelte.js';
+	import TailwindSize from './TailwindSize.svelte';
 	let element;
 	const handle_click = () => {
 		element.remove();

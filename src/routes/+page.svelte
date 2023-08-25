@@ -1,5 +1,5 @@
 <script>
-	import BrowserData from '$lib/general/BrowserData.svelte';
+	import BrowserData from '$lib/BrowserData.svelte';
 </script>
 
 <main class="p-8">
