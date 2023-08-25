@@ -22,10 +22,7 @@ export {
     ItemsCenter,
     JSON,
     RefreshAlert,
-    TailwindSize
-}
-
-export {
+    TailwindSize,
     ButtonBack,
     ButtonNew,
     DesktopNav,
