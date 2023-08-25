@@ -1,5 +1,5 @@
 <script>
-	import ItemsCenter from '$components/ItemsCenter.svelte';
+	import ItemsCenter from '../general/ItemsCenter.svelte';
 	import reepolee from './reepolee.svg?raw';
 	import NavOptions from './NavOptions.svelte';
 	import UserData from './UserData.svelte';
