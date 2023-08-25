@@ -36,4 +36,6 @@ export {
     UserData
 }
 
-export { tailwind_config } from "../../tailwind.config.cjs"
+import { tailwind_config } from "../../tailwind.config.cjs";
+
+export { tailwind_config } 
