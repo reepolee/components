@@ -34,4 +34,6 @@ export {
     NavOptions,
     StickySeparator,
     UserData
-} 
+}
+
+export { tailwind_config } from "../../tailwind.config.cjs"
