@@ -15,7 +15,7 @@ import NavOptions from "./navigation/NavOptions.svelte";
 import Navigation from "./navigation/Navigation.svelte";
 import StickySeparator from "./navigation/StickySeparator.svelte";
 import UserData from "./navigation/UserData.svelte";
-import config from "./tailwind.config.cjs";
+import config from "./tailwind.config.js";
 
 export {
     BrowserData,
