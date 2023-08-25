@@ -24,9 +24,9 @@
 	"exports": {
 		".": {
 			"types": "./dist/index.d.ts",
-			"svelte": "./dist/index.js",
-			"tailwind": "./tailwind.config.cjs"
-		}
+			"svelte": "./dist/index.js"
+		},
+		"./tailwind.config": "./tailwind.config.cjs"
 	},
 	"files": [
 		"dist",
